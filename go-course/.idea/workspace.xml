@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae09aef6-d497-44e2-bbe7-dd71c4acb321" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/workshop2/simplevideoserver/handlers/handlers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop2/simplevideoserver/handlers/listHandler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop2/simplevideoserver/handlers/listHandler_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop2/simplevideoserver/handlers/videoData.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop2/simplevideoserver/handlers/videoHandler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshop2/simplevideoserver/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/workshop2/simplevideoserver/main.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1088875758">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="go" value="16" />
+          <entry key="log" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Go" value="16" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="2952" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Go" value="2952" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/workshop2/simplevideoserver/main.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-350">
+                  <caret line="6" column="35" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="35" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/workshop2/simplevideoserver/handlers/videoData.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/workshop2/simplevideoserver/handlers/handlers.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="755">
+                  <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+                  <folding>
+                    <element signature="e#18#100#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/workshop2/simplevideoserver/handlers/videoHandler.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+                  <folding>
+                    <element signature="e#18#66#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/workshop2/simplevideoserver/handlers/listHandler.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="9" column="16" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="16" />
+                  <folding>
+                    <element signature="e#18#47#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/workshop2/simplevideoserver/handlers/listHandler_test.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="279">
+                  <caret line="18" column="14" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="14" />
+                  <folding>
+                    <element signature="e#18#102#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="E:\go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/workshop1/fizzbazz.go" />
+        <option value="$PROJECT_DIR$/workshop1/fizzbazz_test.go" />
+        <option value="$PROJECT_DIR$/workshop1/main.go" />
+        <option value="$PROJECT_DIR$/workshop1/task2/fizzbazz.go" />
+        <option value="$PROJECT_DIR$/workshop1/task2/fizzbazz_test.go" />
+        <option value="$PROJECT_DIR$/workshop1/task3/duck.go" />
+        <option value="$PROJECT_DIR$/workshop1/task2/main.go" />
+        <option value="$PROJECT_DIR$/workshop1/task3/duck/duck.go" />
+        <option value="$PROJECT_DIR$/workshop1/task3/main.go" />
+        <option value="$PROJECT_DIR$/workshop2/simplevideoserver/handlers/helloWorldHandler.go" />
+        <option value="$PROJECT_DIR$/workshop2/simplevideoserver/main.go" />
+        <option value="$PROJECT_DIR$/workshop2/simplevideoserver/handlers/listHandler.go" />
+        <option value="$PROJECT_DIR$/workshop2/simplevideoserver/handlers/handlers.go" />
+        <option value="$PROJECT_DIR$/workshop2/simplevideoserver/handlers/videoHandler.go" />
+        <option value="$PROJECT_DIR$/workshop2/simplevideoserver/handlers/videoData.go" />
+        <option value="$PROJECT_DIR$/workshop2/simplevideoserver/handlers/listHandler_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="185" />
+    <option name="y" value="420" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="go-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-course" type="462c0819:PsiDirectoryNode" />
+              <item name="workshop1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-course" type="462c0819:PsiDirectoryNode" />
+              <item name="workshop2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-course" type="462c0819:PsiDirectoryNode" />
+              <item name="workshop2" type="462c0819:PsiDirectoryNode" />
+              <item name="simplevideoserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-course" type="462c0819:PsiDirectoryNode" />
+              <item name="workshop2" type="462c0819:PsiDirectoryNode" />
+              <item name="simplevideoserver" type="462c0819:PsiDirectoryNode" />
+              <item name="handlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bariskas\go\src\github.com\bariskas\go-course\workshop1\task3\duck" />
+      <recent name="C:\Users\Bariskas\go\src\github.com\bariskas\go-course\workshop1\task2" />
+      <recent name="C:\Users\Bariskas\go\src\github.com\bariskas\go-course\workshop1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bariskas\go\src\github.com\bariskas\go-course\workshop1\task3" />
+      <recent name="C:\Users\Bariskas\go\src\github.com\bariskas\go-course\workshop1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestListHandler in github.com/bariskas/go-course/workshop2/simplevideoserver/handlers">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-course" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/workshop1/task3/main.go" />
+      <package value="github.com/bariskas/go-course" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-course" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/workshop2/simplevideoserver/main.go" />
+      <package value="github.com/bariskas/go-course" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkFizzBuzz in github.com/bariskas/go-course/workshop1/task2" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-course" />
+      <working_directory value="$PROJECT_DIR$/workshop1/task2" />
+      <go_parameters value="-i" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="github.com/bariskas/go-course/workshop1/task2" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkFizzBuzz$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkFizzBuzz49 in github.com/bariskas/go-course/workshop1/task2" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-course" />
+      <working_directory value="$PROJECT_DIR$/workshop1/task2" />
+      <go_parameters value="-i" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="github.com/bariskas/go-course/workshop1/task2" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkFizzBuzz49$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestListHandler in github.com/bariskas/go-course/workshop2/simplevideoserver/handlers" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-course" />
+      <working_directory value="$PROJECT_DIR$/workshop2/simplevideoserver/handlers" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/bariskas/go-course/workshop2/simplevideoserver/handlers" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestListHandler$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Test.BenchmarkFizzBuzz in github.com/bariskas/go-course/workshop1/task2" />
+      <item itemvalue="Go Test.BenchmarkFizzBuzz49 in github.com/bariskas/go-course/workshop1/task2" />
+      <item itemvalue="Go Build.go build main.go (1)" />
+      <item itemvalue="Go Build.go build main.go (2)" />
+      <item itemvalue="Go Test.TestListHandler in github.com/bariskas/go-course/workshop2/simplevideoserver/handlers" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestListHandler in github.com/bariskas/go-course/workshop2/simplevideoserver/handlers" />
+        <item itemvalue="Go Build.go build main.go (2)" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Test.BenchmarkFizzBuzz49 in github.com/bariskas/go-course/workshop1/task2" />
+        <item itemvalue="Go Test.BenchmarkFizzBuzz in github.com/bariskas/go-course/workshop1/task2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestFizzBuzz_in_github_com_bariskas_go-course_workshop1_task2 - 2018.12.01 at 11h 34m 42s.xml">
+      <configuration name="TestFizzBuzz in github.com/bariskas/go-course/workshop1/task2" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestFizzBuzz_in_github_com_bariskas_go-course_workshop1_task2 - 2018.12.01 at 11h 35m 10s.xml">
+      <configuration name="TestFizzBuzz in github.com/bariskas/go-course/workshop1/task2" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestFizzBuzz_in_github_com_bariskas_go-course_workshop1_task2 - 2018.12.01 at 11h 35m 24s.xml">
+      <configuration name="TestFizzBuzz in github.com/bariskas/go-course/workshop1/task2" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestFizzBuzz_in_github_com_bariskas_go-course_workshop1_task2 - 2018.12.01 at 11h 36m 53s.xml">
+      <configuration name="TestFizzBuzz in github.com/bariskas/go-course/workshop1/task2" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestFizzBuzz_in_github_com_bariskas_go-course_workshop1_task2 - 2018.12.01 at 11h 42m 57s.xml">
+      <configuration name="TestFizzBuzz in github.com/bariskas/go-course/workshop1/task2" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestFizzBuzz_in_github_com_bariskas_go-course_workshop1_task2 - 2018.12.01 at 11h 43m 24s.xml">
+      <configuration name="TestFizzBuzz in github.com/bariskas/go-course/workshop1/task2" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestFizzBuzz_in_github_com_bariskas_go-course_workshop1_task2 - 2018.12.01 at 11h 43m 35s.xml">
+      <configuration name="TestFizzBuzz in github.com/bariskas/go-course/workshop1/task2" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkFizzBuzz_in_github_com_bariskas_go-course_workshop1_task2 - 2018.12.01 at 11h 48m 52s.xml">
+      <configuration name="BenchmarkFizzBuzz in github.com/bariskas/go-course/workshop1/task2" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkFizzBuzz49_in_github_com_bariskas_go-course_workshop1_task2 - 2018.12.01 at 11h 52m 24s.xml">
+      <configuration name="BenchmarkFizzBuzz49 in github.com/bariskas/go-course/workshop1/task2" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestListHandler_in_github_com_bariskas_go-course_workshop2_simplevideoserver_handlers - 2018.12.08 at 13h 05m 03s.xml">
+      <configuration name="TestListHandler in github.com/bariskas/go-course/workshop2/simplevideoserver/handlers" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.141258" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49626866" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49626866" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/workshop1/task2/fizzbazz.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop1/task2/fizzbazz_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop1/task2/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#14#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop1/task3/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop2/simplevideoserver/handlers/helloWorldHandler.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+          <folding>
+            <element signature="e#18#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop1/task3/duck/duck.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop2/simplevideoserver/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop2/simplevideoserver/handlers/videoHandler.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#18#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop2/simplevideoserver/handlers/handlers.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding>
+            <element signature="e#18#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop2/simplevideoserver/handlers/videoData.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop2/simplevideoserver/handlers/listHandler.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#18#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop2/simplevideoserver/handlers/listHandler_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="e#18#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

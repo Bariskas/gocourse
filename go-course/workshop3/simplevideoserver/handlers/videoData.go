@@ -5,4 +5,5 @@ type VideoListItem struct {
 	Name      string `json:"name"`
 	Duration  int    `json:"duration"`
 	Thumbnail string `json:"thumbnail"`
+	Url       string `json:"url"`
 }
